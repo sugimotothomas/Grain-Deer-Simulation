@@ -2,7 +2,7 @@
 // CS 475 - Parallel Programming
 // 5/13/2019
 // MyAgent - Predator Wolves
-// Project_3.cpp
+// grain_deer_sim.cpp
 
 #include "pch.h"
 #include <random>
